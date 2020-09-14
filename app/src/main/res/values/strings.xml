@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">mojOPG</string>
+
+    <string name="welcomeMessage">Dobrodošli!</string>
+
+    <string name="hintName">Korisničko ime</string>
+    <string name="hintPassword">Lozinka</string>
+    <string name="hintNameSurname">Ime i prezime</string>
+    <string name="hintEmail">E-mail adresa</string>
+    <string name="hintCounty">Županija</string>
+    <string name="hintFarm">Ime OPG-a</string>
+    <string name="hintPhone">Broj telefona</string>
+    <string name="hintPlace">Mjesto</string>
+    <string name="hintAddress">Adresa</string>
+    <string name="hintPrice">Cijena</string>
+    <string name="hintType">Vrsta</string>
+    <string name="quantityKNG">kn/g</string>
+    <string name="quantityKNKG">kn/kg</string>
+    <string name="quantityKNT">kn/t</string>
+
+    <string name="selectImageButtonText">Odaberite sliku</string>
+    <string name="registerButtonText">Registriraj se</string>
+    <string name="loginButtonText">Prijava</string>
+    <string name="editButtonText">Edit</string>
+
+    <string name="updateUserTypeText">Vi ste:</string>
+    <string name="otherUserProductsText">Ostali proizvodi, ovog prodavača:</string>
+    <string name="registerUserTypeText">Registrirate se kao:</string>
+    <string name="proceedAsGuestText">Pogledaj proizvode kao gost!</string>
+    <string name="productNumberText">Broj proizvoda: </string>
+    <string name="userGradeText">Ocjena: </string>
+    <string name="commentDateText">Datum: </string>
+    <string name="commentUserName">Korisnik: </string>
+    <string name="commentStartText"> - </string>
+
+
+    <string name="permissionNotGranted">Nemate pravo pristupa medijima na uređaju!</string>
+
+    <string name="userTypeSeller">Prodavač</string>
+    <string name="userTypeBuyer">Kupac</string>
+
+    <string name="openMenu">Otvaram izbornik</string>
+    <string name="closeMenu">Zatvaram izbornik</string>
+
+    <string name="addCommentUrl">http://192.168.0.174/Kopg/public/api/comment-add</string>
+    <string name="deleteCommentUrl">http://192.168.0.174/Kopg/public/api/comment-delete</string>
+    <string name="getCommentsUrl">http://192.168.0.174/Kopg/public/api/list-comments</string>
+
+    <string name="addProductUrl">http://192.168.0.174/Kopg/public/api/product-add</string>
+    <string name="editProductUrl">http://192.168.0.174/Kopg/public/api/product-edit</string>
+    <string name="deleteProductUrl">http://192.168.0.174/Kopg/public/api/product-delete</string>
+    <string name="getProductsUrl">http://192.168.0.174/Kopg/public/api/list-products</string>
+    <string name="reportProductUrl">http://192.168.0.174/Kopg/public/api/product-report</string>
+
+    <string name="registerUserUrl">http://192.168.0.174/Kopg/public/api/user-register</string>
+    <string name="updateUserUrl">http://192.168.0.174/Kopg/public/api/user-update</string>
+    <string name="loginUserUrl">http://192.168.0.174/Kopg/public/api/user-login</string>
+    <string name="getUsersUrl">http://192.168.0.174/Kopg/public/api/user</string>
+
+    <string name="getCountiesUrl">https://tehcon.com.hr/api/CroatiaTownAPI/list.php?v=1&amp;entityType=1</string>
+
+    <string name="google_maps_key">AIzaSyDFV1rMJnuqV2iutBI_2RXPcK6uVQ-fb-o</string>
+
+    <string name="headerWelcomeText">Dobro došao/la,</string>
+
+</resources>

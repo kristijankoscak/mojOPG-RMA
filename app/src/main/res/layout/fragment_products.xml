@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background">
+
+    <Spinner
+        android:id="@+id/filterCounty"
+        android:layout_width="@dimen/size170dp"
+        android:layout_height="@dimen/iconSize40dp"
+        android:hint="@string/hintCounty"
+        style="@style/Widget.AppCompat.DropDownItem.Spinner"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/filterType"
+        app:layout_constraintBottom_toTopOf="@id/productsDisplay"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="@dimen/margin10dp"
+        />
+    <Spinner
+        android:id="@+id/filterType"
+        android:layout_width="@dimen/size0dp"
+        android:layout_height="@dimen/iconSize40dp"
+        android:hint="@string/hintCounty"
+        style="@style/Widget.AppCompat.DropDownItem.Spinner"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/filterCounty"
+        app:layout_constraintRight_toLeftOf="@id/filterSubmitButton"
+        app:layout_constraintBottom_toTopOf="@id/productsDisplay"
+        />
+    <ImageButton
+        android:id="@+id/filterSubmitButton"
+        android:layout_width="@dimen/iconSize30dp"
+        android:layout_height="@dimen/iconSize30dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:src="@drawable/ic_filter"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="@dimen/margin5dp"
+        android:layout_marginRight="@dimen/margin5dp"
+        android:foreground="@drawable/icon_rounded_foreground"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/productsDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="@dimen/margin5dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        app:layout_constraintTop_toBottomOf="@id/filterCounty"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

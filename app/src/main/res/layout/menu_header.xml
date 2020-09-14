@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/headerUserImage"
+        android:layout_width="@dimen/size120dp"
+        android:layout_height="@dimen/size120dp"
+        android:background="@color/colorTransparent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="@dimen/margin20dp"
+        android:foreground="@drawable/header_rounded_foregorund"
+        />
+    <TextView
+        android:id="@+id/headerWelcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/headerUserImage"
+        android:layout_marginLeft="@dimen/margin5dp"
+        android:layout_marginTop="@dimen/margin5dp"
+        android:text="@string/headerWelcomeText"
+        android:textSize="@dimen/textSize20sp"/>
+    <TextView
+        android:id="@+id/headerUserName"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/headerWelcomeText"
+        app:layout_constraintLeft_toRightOf="@id/headerUserImage"
+        android:layout_marginLeft="@dimen/margin5dp"
+        android:layout_marginTop="@dimen/margin5dp"
+        android:textSize="@dimen/textSize22sp"/>
+
+    <TextView
+        android:id="@+id/headerLoginText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/headerUserName"
+        app:layout_constraintLeft_toRightOf="@id/headerUserImage"
+        android:layout_marginLeft="@dimen/margin5dp"
+        android:layout_marginTop="@dimen/margin20dp"
+        android:text="@string/loginButtonText"
+        android:textSize="@dimen/textSize18sp"/>
+    <TextView
+        android:id="@+id/headerRegisterText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/headerLoginText"
+        app:layout_constraintLeft_toRightOf="@id/headerUserImage"
+        android:layout_marginLeft="@dimen/margin5dp"
+        android:text="@string/registerButtonText"
+        android:textSize="@dimen/textSize18sp"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

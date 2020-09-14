@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="county_block">200dp</dimen>
+    <dimen name="productSize">200dp</dimen>
+
+    <dimen name="margin50dp">50dp</dimen>
+    <dimen name="margin20dp">20dp</dimen>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+
+    <dimen name="size150dp">150dp</dimen>
+    <dimen name="size170dp">170dp</dimen>
+    <dimen name="size180dp">180dp</dimen>
+    <dimen name="size0dp">0dp</dimen>
+    <dimen name="size70dp">70dp</dimen>
+    <dimen name="size120dp">120dp</dimen>
+
+    <dimen name="textSize20sp">20sp</dimen>
+    <dimen name="textSize22sp">22sp</dimen>
+    <dimen name="textSize18sp">18sp</dimen>
+    <dimen name="textSize30sp">30sp</dimen>
+
+    <dimen name="iconSize30dp">30dp</dimen>
+    <dimen name="iconSize40dp">40dp</dimen>
+    <dimen name="iconSize50dp">50dp</dimen>
+    <dimen name="productImageSize100dp">100dp</dimen>
+</resources>

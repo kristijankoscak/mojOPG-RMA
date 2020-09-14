@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/group_general_options">
+        <item android:title="Generalne opcije">
+            <menu>
+                <item
+                    android:id="@+id/menu_products"
+                    android:title="Proizvodi"/>
+                <item
+                    android:id="@+id/menu_geo_products"
+                    android:title="Proizvodi na karti"/>
+            </menu>
+        </item>
+    </group>
+
+    <group
+        android:id="@+id/group_user_options">
+        <item android:title="Korisničke opcije">
+            <menu>
+                <item
+                    android:id="@+id/menu_my_profile"
+                    android:title="Moj profil" />
+                <item
+                    android:id="@+id/menu_my_products"
+                    android:title="Moji proizvodi" />
+                <item
+                    android:id="@+id/menu_add_product"
+                    android:title="Predaj proizvod" />
+                <item
+                    android:id="@+id/menu_edit_profile"
+                    android:title="Uredi osobne podatke" />
+                <item
+                    android:id="@+id/menu_logout"
+                    android:title="Odjava" />
+            </menu>
+
+        </item>
+    </group>
+
+
+</menu >
