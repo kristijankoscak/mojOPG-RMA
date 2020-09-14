@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="hr.ferit.kristijankoscak.mojopg"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:6:5-80
+12-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:7:5-69
+13-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:7:22-66
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:8:5-78
+14-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:8:22-76
+15
+16    <!-- Include required permissions for Google Maps API to run. -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
+22
+23    <application
+23-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:12:5-38:19
+24        android:name="hr.ferit.kristijankoscak.mojopg.UserDataApplicaton"
+24-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:13:9-43
+25        android:allowBackup="true"
+25-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:14:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_logo_launcher"
+28-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:15:9-48
+29        android:label="@string/app_name"
+29-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:16:9-41
+30        android:networkSecurityConfig="@xml/network_security_config"
+30-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:17:9-69
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:18:9-54
+32        android:supportsRtl="true"
+32-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:19:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:20:9-40
+35        <meta-data
+35-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:21:9-23:54
+36            android:name="com.google.android.geo.API_KEY"
+36-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:22:13-58
+37            android:value="@string/google_maps_key" />
+37-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:23:13-52
+38
+39        <activity android:name="hr.ferit.kristijankoscak.mojopg.Activities.MainActivity" />
+39-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:24:9-25:55
+39-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:25:13-52
+40        <activity android:name="hr.ferit.kristijankoscak.mojopg.Activities.RegisterActivity" />
+40-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:26:9-27:59
+40-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:27:13-56
+41        <activity android:name="hr.ferit.kristijankoscak.mojopg.Activities.LoginActivity" />
+41-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:28:9-29:56
+41-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:29:13-53
+42        <activity android:name="hr.ferit.kristijankoscak.mojopg.Activities.WelcomeActivity" >
+42-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:30:9-37:20
+42-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:31:13-55
+43            <intent-filter>
+43-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:32:13-36:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:33:17-69
+44-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:33:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:35:17-77
+46-->D:\Faks\RMA\mojOPG\app\src\main\AndroidManifest.xml:35:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <provider
+50-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\6cbaf370b90bb36b3b4f56b173ba55f0\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+51            android:name="com.squareup.picasso.PicassoProvider"
+51-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\6cbaf370b90bb36b3b4f56b173ba55f0\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+52            android:authorities="hr.ferit.kristijankoscak.mojopg.com.squareup.picasso"
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\6cbaf370b90bb36b3b4f56b173ba55f0\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+53            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\6cbaf370b90bb36b3b4f56b173ba55f0\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+54        <uses-library
+54-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+55            android:name="org.apache.http.legacy"
+55-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+56            android:required="false" />
+56-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\e4a812a5419c8442054b6da1e1c0a5be\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+57
+58        <activity
+58-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\9a452d09d1c52eef88c4a36706f955a4\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\9a452d09d1c52eef88c4a36706f955a4\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\9a452d09d1c52eef88c4a36706f955a4\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\9a452d09d1c52eef88c4a36706f955a4\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+62
+63        <meta-data
+63-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\c80af29bfbe306c406bc9d9d54d19ca2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+64            android:name="com.google.android.gms.version"
+64-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\c80af29bfbe306c406bc9d9d54d19ca2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+65            android:value="@integer/google_play_services_version" />
+65-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\c80af29bfbe306c406bc9d9d54d19ca2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+66
+67        <provider
+67-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+68            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+69            android:authorities="hr.ferit.kristijankoscak.mojopg.lifecycle-process"
+69-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+70            android:exported="false"
+70-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+71            android:multiprocess="true" />
+71-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kosco\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+72    </application>
+73
+74</manifest>

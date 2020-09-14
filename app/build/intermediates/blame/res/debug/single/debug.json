@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_products.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo_launcher_foreground.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_no_user.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_no_user.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_logo_launcher_round.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo_launcher_foreground.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_rounded_foreground.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable\\icon_rounded_foreground.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logo.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_info.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_info.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_to_bottom.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\anim\\top_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_product.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_add_product.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_drawer_menu.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\menu\\navigation_drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_welcome_message.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\welcome_message.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_update.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_user_update.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_rounded_foregorund.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable\\header_rounded_foregorund.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_product_edit.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_product_edit.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_logo_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_logo_launcher_foreground.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_logo_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_report.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_product_report.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo_launcher_foreground.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_logo_launcher_foreground.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product_delete.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_product_delete.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_no_user.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_no_user.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_comment.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_product_delete.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_product_delete.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_logo_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragments_content.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragments_content.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_product_info.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_product_info.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_info.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_product_info.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_product.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_product.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_geo_products.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\fragment_geo_products.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-hdpi\\ic_filter.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_product_edit.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-mdpi\\ic_product_edit.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_product.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_product.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_product_report.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_product_report.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_star.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_logo_launcher.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_launcher.xml"
+    },
+    {
+        "merged": "D:\\Faks\\RMA\\mojOPG\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_to_top.xml.flat",
+        "source": "D:\\Faks\\RMA\\mojOPG\\app\\src\\main\\res\\anim\\bottom_to_top.xml"
+    }
+]
