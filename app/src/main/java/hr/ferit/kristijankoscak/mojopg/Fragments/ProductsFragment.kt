@@ -55,10 +55,14 @@ class ProductsFragment : Fragment() {
                 loadCounties(view)
                 loadTypeMenu(view)
                 view.filterSubmitButton.visibility = View.VISIBLE
+                countyFilter.visibility = View.VISIBLE
+                typeFilter.visibility = View.VISIBLE
             }
             if(productsType == "userProducts"){
                 submitRequestForProducts()
                 view.filterSubmitButton.visibility = View.INVISIBLE
+                countyFilter.visibility = View.INVISIBLE
+                typeFilter.visibility = View.INVISIBLE
             }
         }
     }

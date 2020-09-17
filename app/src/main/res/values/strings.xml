@@ -42,20 +42,20 @@
     <string name="openMenu">Otvaram izbornik</string>
     <string name="closeMenu">Zatvaram izbornik</string>
 
-    <string name="addCommentUrl">http://192.168.0.174/Kopg/public/api/comment-add</string>
-    <string name="deleteCommentUrl">http://192.168.0.174/Kopg/public/api/comment-delete</string>
-    <string name="getCommentsUrl">http://192.168.0.174/Kopg/public/api/list-comments</string>
+    <string name="addCommentUrl">http://192.168.137.1/Kopg/public/api/comment-add</string>
+    <string name="deleteCommentUrl">http://192.168.137.1/Kopg/public/api/comment-delete</string>
+    <string name="getCommentsUrl">http://192.168.137.1/Kopg/public/api/list-comments</string>
 
-    <string name="addProductUrl">http://192.168.0.174/Kopg/public/api/product-add</string>
-    <string name="editProductUrl">http://192.168.0.174/Kopg/public/api/product-edit</string>
-    <string name="deleteProductUrl">http://192.168.0.174/Kopg/public/api/product-delete</string>
-    <string name="getProductsUrl">http://192.168.0.174/Kopg/public/api/list-products</string>
-    <string name="reportProductUrl">http://192.168.0.174/Kopg/public/api/product-report</string>
+    <string name="addProductUrl">http://192.168.137.1/Kopg/public/api/product-add</string>
+    <string name="editProductUrl">http://192.168.137.1/Kopg/public/api/product-edit</string>
+    <string name="deleteProductUrl">http://192.168.137.1/Kopg/public/api/product-delete</string>
+    <string name="getProductsUrl">http://192.168.137.1/Kopg/public/api/list-products</string>
+    <string name="reportProductUrl">http://192.168.137.1/Kopg/public/api/product-report</string>
 
-    <string name="registerUserUrl">http://192.168.0.174/Kopg/public/api/user-register</string>
-    <string name="updateUserUrl">http://192.168.0.174/Kopg/public/api/user-update</string>
-    <string name="loginUserUrl">http://192.168.0.174/Kopg/public/api/user-login</string>
-    <string name="getUsersUrl">http://192.168.0.174/Kopg/public/api/user</string>
+    <string name="registerUserUrl">http://192.168.137.1/Kopg/public/api/user-register</string>
+    <string name="updateUserUrl">http://192.168.137.1/Kopg/public/api/user-update</string>
+    <string name="loginUserUrl">http://192.168.137.1/Kopg/public/api/user-login</string>
+    <string name="getUsersUrl">http://192.168.137.1/Kopg/public/api/user</string>
 
     <string name="getCountiesUrl">https://tehcon.com.hr/api/CroatiaTownAPI/list.php?v=1&amp;entityType=1</string>
 

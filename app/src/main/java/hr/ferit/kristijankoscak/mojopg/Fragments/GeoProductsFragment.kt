@@ -75,29 +75,29 @@ class GeoProductsFragment : Fragment() , OnMapReadyCallback {
     }
 
     private fun displayProductOnMap(myPosition:LatLng,product:Product){
-        val marker = map.addMarker(MarkerOptions().position(myPosition).title(product.user).snippet(product.detail_type + " - " + product.price + " "+product.quantity))
+        val marker = map.addMarker(MarkerOptions().position(myPosition).title(product.user).snippet(product.detail_type))
         map.mapType = GoogleMap.MAP_TYPE_NORMAL
         map.uiSettings.isZoomControlsEnabled = true
         //map.moveCamera(CameraUpdateFactory.newLatLng(myPosition))
-        map.setOnMarkerClickListener { marker -> handleNavigationToUserProfile(marker.title); true }
+        map.setOnMarkerClickListener { marker -> handleNavigationToProduct(marker.title,marker.snippet); true }
 
     }
 
-    private fun handleNavigationToUserProfile(userName:String){
-        val users = UsersRepository.retreiveUsers()
-        for(user in users){
-            if(user.name == userName){
-                navigateToUserProfile(user.id)
+    private fun handleNavigationToProduct(userName:String,productType:String){
+        val products = ProductsRepository.retreiveProducts()
+        for(product in products){
+            if(product.user == userName && product.detail_type == productType){
+                navigateToProduct(product.id.toString())
             }
         }
     }
-    private fun navigateToUserProfile(userID:String){
-        val userFragment = UserFragment();
+    private fun navigateToProduct(productID:String){
+        val productFragment = ProductFragment();
         val bundle = Bundle()
-        bundle.putString("userID",userID)
-        userFragment.arguments = bundle;
+        bundle.putString("productID",productID)
+        productFragment.arguments = bundle;
         val fragmentTransaction = fragmentManager!!.beginTransaction()
-        fragmentTransaction.replace(R.id.fragmentContainer, userFragment)
+        fragmentTransaction.replace(R.id.fragmentContainer, productFragment)
         fragmentTransaction.addToBackStack("fragment")
         fragmentTransaction.commit()
     }
