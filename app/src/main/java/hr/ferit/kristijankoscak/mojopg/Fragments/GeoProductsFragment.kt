@@ -67,7 +67,6 @@ class GeoProductsFragment : Fragment() , OnMapReadyCallback {
         displayLoadingMessage()
         map = googleMap
         Handler().postDelayed({
-            Log.d("geoproducts",ProductsRepository.getSize().toString())
             AddProductsLocation(ProductsRepository.retreiveProducts())
             dismissLoadingMessage()
             loadToCountry()

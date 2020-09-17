@@ -98,7 +98,6 @@ class WelcomeActivity : AppCompatActivity() {
     }
 
     override fun onBackPressed() {
-        Log.d("back","stisno")
         var count = supportFragmentManager.backStackEntryCount
         if(count == 0){
 

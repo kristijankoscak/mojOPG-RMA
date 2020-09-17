@@ -39,7 +39,6 @@ class UserApi (context: Context, userData:MutableMap<String,String>, warningMess
         displayLoadingMessage()
         val request = object: StringRequest(
             method, registerApi, Response.Listener { response ->
-                //Log.d("TAG ", response.toString())
                 if(response != "user exist"){
                     UserPreferenceManager()
                         .saveUserData(JSONObject(response),userData.get("password")!!)
@@ -69,7 +68,6 @@ class UserApi (context: Context, userData:MutableMap<String,String>, warningMess
                     UserPreferenceManager().saveUserData(JSONObject(response),userData.get("password")!!)
                     dismissLoadingMessage()
                     navigateToMainActivity()
-                    Log.d("userType",userData.get("userType"))
             },
             Response.ErrorListener { error->
                 Toast.makeText(context,"error: " +error.toString(), Toast.LENGTH_LONG).show()

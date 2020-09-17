@@ -33,7 +33,6 @@ class CountiesApi(context: Context, spinner: Spinner): ApiHandler(context){
             val request = StringRequest(
                 method, getCountiesApi,
                 Response.Listener { response ->
-                    Log.d("counties",response.toString())
                     lateinit var jsonObject: JSONObject;
                     lateinit var jsonArray: JSONArray;
                     if(response is String){

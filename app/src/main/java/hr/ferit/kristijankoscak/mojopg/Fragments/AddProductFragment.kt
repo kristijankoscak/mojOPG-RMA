@@ -181,12 +181,10 @@ class AddProductFragment: Fragment() {
 
     private fun handleImageSelection(){
         if((activity as AppCompatActivity).hasPermissionCompat(externalStoragePermission)){
-            Log.d("Tag","ima dozvolu")
             openGallery()
         }
         else{
             (activity as AppCompatActivity).requestPermisionCompat(arrayOf(externalStoragePermission),externalStorageRequestCode)
-            Log.d("Tag","nema dozvolu")
         }
     }
     private fun openGallery(){

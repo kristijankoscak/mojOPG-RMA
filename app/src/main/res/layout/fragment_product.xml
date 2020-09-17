@@ -109,7 +109,7 @@
         android:id="@+id/userInfo"
         android:layout_width="@dimen/iconSize30dp"
         android:layout_height="@dimen/iconSize30dp"
-        
+
         app:layout_constraintBottom_toTopOf="@id/userOtherProducts"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toRightOf="@id/userImage"

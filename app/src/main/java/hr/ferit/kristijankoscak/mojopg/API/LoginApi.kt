@@ -33,7 +33,6 @@ class LoginApi(context: Context, warningMessage: TextView): ApiHandler(context) 
         displayLoadingMessage()
         val request = object: StringRequest(method, loginApi,
             Response.Listener { response ->
-                Log.d("user",response)
                 if(response != "no user"){
                     dismissLoadingMessage()
                     UserPreferenceManager().saveUserData(JSONObject(response),password)

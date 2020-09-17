@@ -74,7 +74,6 @@ class UserUpdateFragment : Fragment() {
     }
     private fun loadUserData(view:View){
         loggedUser = UsersRepository.get(UserPreferenceManager().retreiveUserID().toInt())!!
-        Log.d("user",loggedUser.toString())
         Handler().postAtTime({
             loadImage(view)
         },1000)
@@ -85,7 +84,6 @@ class UserUpdateFragment : Fragment() {
     }
     private fun loadImage(view:View){
         val userBaseUrl = "http://192.168.0.174/Kopg/public/storage/user_images/"
-        Log.d("tag",userBaseUrl+loggedUser.image_link)
         Picasso.get()
             .load(userBaseUrl+loggedUser.image_link)
             //.fit()
@@ -95,7 +93,6 @@ class UserUpdateFragment : Fragment() {
                 override fun onBitmapLoaded(bitmap: Bitmap?, from: Picasso.LoadedFrom?) {
                     view.editUserImage.setImageBitmap(bitmap)
                     imageBitMap = bitmap!!;
-                    Log.d("tag",imageBitMap.toString())
                     imageIsPicked = true;
                 }
                 override fun onPrepareLoad(placeHolderDrawable: Drawable?) {}
@@ -104,7 +101,6 @@ class UserUpdateFragment : Fragment() {
             })
     }
     private fun setUserType(view:View) {
-        Log.d("userTyp",loggedUser.user_type)
         if (loggedUser.user_type == "buyer") {
             view.buyer.isChecked = true;
             view.seller.isChecked = false;
@@ -119,7 +115,6 @@ class UserUpdateFragment : Fragment() {
         }
     }
     private fun setUserCounty(view:View){
-        Log.d("user",loggedUser.county)
         Handler().postDelayed({
             view.editUserCounties.setSelection(CountiesRepository.retreiveCounties().indexOf(loggedUser.county))
         }, 500)
@@ -193,7 +188,6 @@ class UserUpdateFragment : Fragment() {
         updateUserHandler.setKey("image",imageToString(imageBitMap))
         updateUserHandler.setKey("familyFarm",view.editUserFarm.text.toString())
         updateUserHandler.setKey("county",view.editUserCounties.selectedItem.toString())
-        Log.d("userType",userType)
         updateUserHandler.setKey("userType",userType)
         updateUserHandler.setKey("userID",UserPreferenceManager().retreiveUserID())
     }

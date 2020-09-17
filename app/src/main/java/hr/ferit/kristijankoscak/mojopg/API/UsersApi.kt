@@ -2,6 +2,7 @@ package hr.ferit.kristijankoscak.mojopg.API
 
 import android.content.Context
 import android.util.Log
+import android.widget.Toast
 import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import hr.ferit.kristijankoscak.mojopg.Model.User
@@ -28,7 +29,7 @@ class UsersApi (context: Context): ApiHandler(context) {
                 UsersRepository.saveUsers(usersList)
             },
             Response.ErrorListener { error->
-                Log.d("TAG",error.toString())
+                Toast.makeText(this.context, error.message, Toast.LENGTH_LONG).show();
             }
         )
         queue.add(request)
