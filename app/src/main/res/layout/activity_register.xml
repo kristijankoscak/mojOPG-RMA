@@ -172,7 +172,7 @@
         android:layout_width="@dimen/size150dp"
         android:layout_height="wrap_content"
         android:hint="@string/hintAddress"
-        app:layout_constraintTop_toBottomOf="@id/registerUserType"
+        app:layout_constraintTop_toBottomOf="@id/registerUserGroup"
         android:layout_marginTop="@dimen/margin20dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginRight="@dimen/margin20dp"

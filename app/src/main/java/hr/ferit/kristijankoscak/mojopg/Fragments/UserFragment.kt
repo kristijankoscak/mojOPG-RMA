@@ -54,6 +54,9 @@ class UserFragment: Fragment() {
             view.addCommentButton.setOnClickListener { addNewComment(view) }
             viewedUserID = bundle.getString("userID")!!
             viewedUser = UsersRepository.get(viewedUserID.toInt())!!
+            if(viewedUserID == UserPreferenceManager().retreiveUserID()){
+                hideCommentBlock(view)
+            }
             identificateUser(view,"specificUser")
         }
         if(UserPreferenceManager().retreiveUserID() != "" && bundle == null){
@@ -151,6 +154,7 @@ class UserFragment: Fragment() {
     private fun fetchCommentsGrade(loggedUserID: String):Double{
         var sum = 0.0
         var commentsNumber = 0
+        var averageGrade = 0.0;
         val comments = CommentsRepository.retreiveComments()
         for ( comment in comments){
             if(comment.belongs_to == loggedUserID){
@@ -158,7 +162,11 @@ class UserFragment: Fragment() {
                 commentsNumber++
             }
         }
-        return sum/commentsNumber;
+        if(sum != 0.0){
+            averageGrade = sum/commentsNumber
+        };
+
+        return averageGrade;
     }
 
     private fun setUpRecycler(view:View){

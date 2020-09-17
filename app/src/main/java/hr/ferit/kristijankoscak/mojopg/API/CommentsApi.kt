@@ -84,7 +84,8 @@ class CommentsApi(context: Context, recyclerView: RecyclerView, fragmentManager:
         val request = object : StringRequest(method, addCommentApiUrl,
             Response.Listener { response ->
                 Toast.makeText(context,"Komentar dodan!",Toast.LENGTH_LONG).show()
-                displayComments(method)
+                CommentsRepository.emptyList()
+                navigateToSpecificFragment("userID",viewedProfileID.toInt(),UserFragment())
             },
             Response.ErrorListener { error ->
                 Toast.makeText(context,error.toString(),Toast.LENGTH_LONG).show()
@@ -119,8 +120,8 @@ class CommentsApi(context: Context, recyclerView: RecyclerView, fragmentManager:
         val commentListener = object: CommentInteractionListener {
             override fun onRemove(id: Int) {
                 val url = "http://192.168.0.174/Kopg/public/api/comment-delete";
-                submitDeleteCommentRequest(method,id.toString())
                 CommentsRepository.remove(id)
+                submitDeleteCommentRequest(method,id.toString())
                 (recyclerView.adapter as CommentAdapter).refreshData(fetchUserComments())
             }
         }

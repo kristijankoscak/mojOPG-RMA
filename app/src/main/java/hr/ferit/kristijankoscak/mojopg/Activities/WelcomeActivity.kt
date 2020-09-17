@@ -2,13 +2,15 @@ package hr.ferit.kristijankoscak.mojopg.Activities
 
 import android.content.Intent
 import android.content.pm.ActivityInfo
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.FragmentManager
 import hr.ferit.kristijankoscak.mojopg.R
 import hr.ferit.kristijankoscak.mojopg.UserPreferenceManager
 import kotlinx.android.synthetic.main.activity_welcome.*
@@ -96,7 +98,8 @@ class WelcomeActivity : AppCompatActivity() {
     }
 
     override fun onBackPressed() {
-        val count = supportFragmentManager.backStackEntryCount
+        Log.d("back","stisno")
+        var count = supportFragmentManager.backStackEntryCount
         if(count == 0){
 
         }

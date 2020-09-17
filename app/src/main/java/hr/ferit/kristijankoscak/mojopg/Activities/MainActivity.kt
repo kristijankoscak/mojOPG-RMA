@@ -114,6 +114,9 @@ class MainActivity : AppCompatActivity() , NavigationView.OnNavigationItemSelect
     }
 
     private fun handleLogout(){
+        val entry = supportFragmentManager.getBackStackEntryAt(0)
+        supportFragmentManager.popBackStack(entry.getId(), FragmentManager.POP_BACK_STACK_INCLUSIVE)
+        supportFragmentManager.executePendingTransactions()
         UserPreferenceManager().saveUserData(retrieveEmptyJSONObject(),"")
         val welcomeIntent: Intent = Intent(this, WelcomeActivity::class.java)
         startActivity((welcomeIntent))
